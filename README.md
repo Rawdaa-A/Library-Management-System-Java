@@ -18,7 +18,7 @@ The system supports full CRUD operations with a connected database using JDBC.
 - Manage authors, customers, and borrowing records
 
 ## 📸 Screenshot
-<img width="915" height="800" alt="GUI" src="https://github.com/user-attachments/assets/b697367b-44d8-4f3d-a0c5-5c8e4c7adac2" />
+<img src="https://github.com/user-attachments/assets/b697367b-44d8-4f3d-a0c5-5c8e4c7adac2" width="500" />
 
 ## 🗄️ Database Schema
 The system uses five main tables:
